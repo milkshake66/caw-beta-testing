@@ -1,3 +1,6 @@
 ChildhoosEnd:
-// To control teh ecosystem we need O
+// To control teh ecosystem we need 
 import add : "0xb53ecf1345cabee6ea1a65100ebb153cebcac40f"
+{ 
+sol.address==<0,1>
+// file to be swapped with burn mechanism//
