@@ -4,6 +4,6 @@ import add : "0xb53ecf1345cabee6ea1a65100ebb153cebcac40f"
 { 
 const wethAddress = '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2';
 const cawAddress = '0xf3b9569f82b18aef890de263b84189bd33ebe452'; // CAW
-const usdcAddress = '0xb53ecf1345cabee6ea1a65100ebb153cebcac40f'; // O
+const ChildhoodsEnd = '0xb53ecf1345cabee6ea1a65100ebb153cebcac40f'; // O
 sol.address==<0,1>
 // file to be swapped with burn mechanism//
